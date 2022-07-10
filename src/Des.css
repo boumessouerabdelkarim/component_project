@@ -1,0 +1,39 @@
+h1{
+    position: relative;
+    top:-66vh ; 
+    left:31vw ;
+    color: white;
+    font-style:italic;
+    font-size: 60px;
+  }
+  p{
+    position: relative;
+    width:700;
+    top:-71vh ; 
+    left:31vw ;
+    color: white;
+    font-style:italic;
+    font-size: 20px;
+  }
+  .Portfolio{
+    position: absolute;
+    top:-15vh;
+    left:30vw;
+    height:400px;
+    width: 450px;
+  }
+  
+  
+  .move-area{/*normally use body*/
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    top:62vh;
+
+    
+  }
+  .container {
+    width: 100%;
+   
+  }
+ 
