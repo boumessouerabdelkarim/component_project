@@ -1,15 +1,15 @@
 h1{
     position: relative;
-    top:-66vh ; 
+    top:-100vh ; 
     left:31vw ;
     color: white;
     font-style:italic;
-    font-size: 60px;
+    font-size: 50px;
   }
   p{
     position: relative;
     width:700;
-    top:-71vh ; 
+    top:-110vh ; 
     left:31vw ;
     color: white;
     font-style:italic;
@@ -19,8 +19,8 @@ h1{
     position: absolute;
     top:-15vh;
     left:30vw;
-    height:400px;
-    width: 450px;
+    height:390px;
+    width: 440px;
   }
   
   
@@ -28,7 +28,7 @@ h1{
     width: 100vw;
     height: 100vh;
     position: relative;
-    top:62vh;
+    top:55vh;
 
     
   }
